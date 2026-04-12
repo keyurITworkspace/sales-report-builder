@@ -26,4 +26,4 @@ This is a simple data analysis project built using Streamlit. The app helps in a
 The app uses a CSV file containing sales data such as product, price, quantity, and date.
 
 ## Purpose
-This project is built for learning data analysis and building interactive dashboards using Streamlit.
+This project is built for analysing sales data and take best decision.
